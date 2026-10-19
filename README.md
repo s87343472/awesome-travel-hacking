@@ -47,6 +47,7 @@
 - [SeatGuru](https://www.seatguru.com/) - Check airplane seat maps and reviews to choose the best seat.
 - [TripIt](https://www.tripit.com/) - An app that organizes your travel plans into one simple itinerary.
 - [Kayak Explore](https://www.kayak.com/explore) - A tool that shows you where you can fly within your budget.
+- [Trip Split](https://tripsplit.sagasu.art/) - Free-to-start trip expense splitter for groups: join by link, log expenses offline, settle with a short list of transfers.
 
 ## Loyalty Programs
 
